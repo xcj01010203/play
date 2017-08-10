@@ -218,8 +218,6 @@ public class PlayAnalysisUtils {
 				for (ViewInfoDto playInfoDto : viewInfoDtoList) {
 					if (!viewInfoList.contains(playInfoDto)) {
 						viewInfoList.add(playInfoDto);
-					} else {
-						logger.info("重复：" + playInfoDto.getSeriesNo() + "-" + playInfoDto.getViewNo());
 					}
 				}
 			}
