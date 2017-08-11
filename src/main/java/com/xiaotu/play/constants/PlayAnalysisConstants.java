@@ -11,10 +11,6 @@ import com.xiaotu.play.dto.SeparatorDto;
  * 常量类
  * @author xuchangjian 2017-6-15上午11:52:52
  */
-/**
- * 常量类
- * @author xuchangjian 2017年8月2日下午4:47:11
- */
 public class PlayAnalysisConstants {
 
 	/**
@@ -122,13 +118,13 @@ public class PlayAnalysisConstants {
 		 * 1-5a 上海马路上 日/外
 		 * 角色：徐桂林、马赫、美国兵甲
 		 */
-//		SCRIPT_RULE_LIST.add("e1s0e2s0e3s0e4s0e5s1s2e7");
+		SCRIPT_RULE_LIST.add("e1s0e2s0e3s0e4s0e5s1s2e7");
 		
 		/*
 		 * 1-5a 上海马路上 外/日
 		 * 角色：徐桂林、马赫、美国兵甲
 		 */
-//		SCRIPT_RULE_LIST.add("e1s0e2s0e3s0e5s0e4s1s2e7");
+		SCRIPT_RULE_LIST.add("e1s0e2s0e3s0e5s0e4s1s2e7");
 		
 		/*
 		 * 1-5a 上海马路上 日/外 
@@ -145,12 +141,12 @@ public class PlayAnalysisConstants {
 		/*
 		 * 1-5a 上海马路上 日/外   角色：徐桂林、马赫、美国兵甲
 		 */
-//		SCRIPT_RULE_LIST.add("e1s0e2s0e3s0e4s0e5s2e7");
+		SCRIPT_RULE_LIST.add("e1s0e2s0e3s0e4s0e5s2e7");
 		
 		/*
 		 * 1-5a 上海马路上 外/日   角色：徐桂林、马赫、美国兵甲
 		 */
-//		SCRIPT_RULE_LIST.add("e1s0e2s0e3s0e5s0e4s2e7");
+		SCRIPT_RULE_LIST.add("e1s0e2s0e3s0e5s0e4s2e7");
 		
 		/*
 		 * 1-5a 日/外
@@ -221,12 +217,12 @@ public class PlayAnalysisConstants {
 		/*
 		 * 5a 日/外 上海马路上 角色：徐桂林、马赫、美国兵甲
 		 */
-//		SCRIPT_RULE_LIST.add("e2s0e4s0e5s0e3s2e7");
+		SCRIPT_RULE_LIST.add("e2s0e4s0e5s0e3s2e7");
 		
 		/*
 		 * 5a 外/日 上海马路上 角色：徐桂林、马赫、美国兵甲
 		 */
-//		SCRIPT_RULE_LIST.add("e2s0e5s0e4s0e3s2e7");
+		SCRIPT_RULE_LIST.add("e2s0e5s0e4s0e3s2e7");
 		
 		/*
 		 * 5a 上海马路上 外

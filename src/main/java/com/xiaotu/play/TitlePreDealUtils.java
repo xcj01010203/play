@@ -285,8 +285,8 @@ public class TitlePreDealUtils {
 						temGroupLineContent_before += "";
 					} 
 					else {
-//						temGroupLineContent_before += m.group().replaceFirst(m.group(), "角色：");
-						temGroupLineContent_before += "\r\n";
+						temGroupLineContent_before += m.group().replaceFirst(m.group(), "角色：");
+//						temGroupLineContent_before += "\r\n";
 					}
 				}
 			}

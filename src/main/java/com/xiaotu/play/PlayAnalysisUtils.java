@@ -62,7 +62,7 @@ public class PlayAnalysisUtils {
 	
 	public static void main(String[] args) throws Exception {
 		String fileName = "极速捕手 中文剧本20160815.docx";
-		String filepath = "C:\\Users\\Administrator\\Desktop\\极速捕手 中文剧本20160815.docx";
+		String filepath = "C:\\Users\\Administrator\\Desktop\\广告功能讲义.docx";
 		String openInstallPath = "C:\\Program Files (x86)\\OpenOffice 4";
 		String winrarInstallPath = "C:\\Program Files\\WinRAR/WinRAR.exe";
 		String viewLocationKeywordFilePath = "";
