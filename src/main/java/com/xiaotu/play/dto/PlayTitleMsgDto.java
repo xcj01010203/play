@@ -1,7 +1,5 @@
 package com.xiaotu.play.dto;
 
-import java.util.List;
-
 public class PlayTitleMsgDto {
 
 	/**
